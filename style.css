@@ -1,0 +1,126 @@
+body{
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg);
+    background-repeat: no-repeat;
+    background-position: right ;
+    background-size: cover;
+}
+#main{
+    text-align: center;
+    font-family: 'Vina Sans', sans-serif;
+    font-stretch:ultra-expanded;
+    text-shadow: 3px 3px 3px darkgray;
+    font-size: 50px;
+    color: rgb(116, 29, 46);
+    
+    
+}
+body{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 150%;
+}
+.box{
+    padding-left: 74px;
+}
+.img1{
+   float:left;
+   padding-right: 17px;
+}
+#para1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.para:hover{
+    border: inset;
+    background-color:rgb(241, 210, 200);
+    
+}
+
+.img2{
+    float:right;
+    height: 450px;
+    margin-left: 100px;
+}
+#one{
+    padding-top: 75px;
+    padding-bottom: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;}
+.img3{
+    float:left;
+    height:400px;
+    margin-bottom: 100px;
+    
+}
+#two{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+
+
+.img4{
+    float: right;
+    
+    height: 400px;
+
+}
+#three{
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+#wall{
+    margin-left: -50px;
+}
+#four{
+    float: right;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+.img5{
+    height: 400px;
+   
+    margin:50px;
+}
+.img6{
+   float: right;
+   margin-left: 3px;}
+#five{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 150px;
+}
+.img7{
+    height: 400px;
+}
+.img8{
+    width:500px;
+    float: right;
+}
+#seven{
+    padding-top: 75px;
+    padding-bottom:75px;
+    margin-top: 100px;
+}
+.img9{
+    height:400px;
+}
+#eight{
+    padding-top:50px;
+    padding-bottom:50px
+}
+.img10{
+    float:right;
+    height:500px;
+    margin-bottom: 100px;
+}
+#nine{
+    padding-top: 75px;
+    padding-bottom: 75px;
+    margin-top:75px
+}
